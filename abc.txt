@@ -1,5 +1,8 @@
 hello
-This is new line from Ashish .. 
+This is new line from Ashish ..
+these are the new changes being done on master branch..
+people keep fixing their bugs on master directly..
+
 test 
 test
 
