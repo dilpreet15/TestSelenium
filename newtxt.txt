@@ -1,5 +1,8 @@
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 ssssssssssssssssssssssssssssssssssss
+Here i am fixing the merge conflict
+zzzzzzzzzzzzzzzzz
+
 this is new txt file on the merge conflict branch....
 we have to test the new branch feature.. !
 this line of the code fixes the buf in the application.. !
